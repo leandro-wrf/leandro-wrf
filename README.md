@@ -15,29 +15,23 @@
 
 </p>
 
-<h3>Hi there :wave:</h3>
+<h3>Oie :nerd_face:</h3>
 
-<p>
-  My name is Leandro Ferreira, I'm passionate about old games :heart_eyes:, coffee lover :yum: :coffee:, and I love books, I'm currently reading Clean Code :sunglasses:.
+<p align="justify">
+  Quem sou eu, digamos que uma pessoa apaixonado por programação e correndo atrás de sonhos para os torna realidade,
+  tudo que aprendi sobre programação foi sozinho, encontrando falhas todos os dias em meus códigos e tentando melhorar, dia após dia,
+  e hoje sou um estudante devorador de todo tipo de conteúdo.
 </p>
-<p>
-  I am not currently employed, I am looking to enter the programming market, I have been studying various contents throughout this period, I am currently delving into the concept and improvement of code, such as clean code, SOLID and TDD. 
+<p align="justify">
+  Trabalho atualmente como eletricista indústrial, porém meu coração tá aqui em cada linha de código que escrevi. Todo dia arrumo um tempinho
+  para codar, visando a chance de ter uma oportunidade de trabalhar um dia nesta área.
 </p>
-<p>
-  I have done some projects during this time, now I am focused on a delivery project. My skills are Typescript, NodeJs, SQL, NoSQL, Socket.io, ReactJs, Expo and ReactNative. This is me, an immense pleasure. :v:
+<p align="justify">
+  Atualmente estou estudando sobre estrutra de pastas para aplicações front-end e como aplicar TDD a estás aplicações, algo que nunca fiz
+  e que em meus últimos projetos, notei está atrapalhando a legibilidade do código e ainda estou tirando um tempinho para estudar 
+  ruby hehe :heart_eyes:. E com este pequeno detalhe mostro quem sou eu, alguém apaixonado por código e não apenas isto, apaixonado por
+  estudar esse mundinho, vendo erros e tentando corrigí-los, da melhor forma possível :muscle:.
 </p>
-
-<!--
-**leandro-wrf/leandro-wrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+  Se você chegou até aqui, prazer me chamo Leandro, chama lá no linkedin e vamos trocar ideias de código, se puder lhe ajudar pode chamar :v:.
+</p>
