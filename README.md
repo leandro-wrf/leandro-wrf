@@ -5,13 +5,13 @@
   <img src="https://img.shields.io/badge/-Leandro%20Ferreira-blue?style=flat-square&logo=linkedin" alt="linkedin" />
 </a>
 
-<img src="https://img.shields.io/badge/Developer-JavaScript-F0DB4F?style=flat-square&logo=javascript" alt="" />
+<img src="https://img.shields.io/badge/developer-Backend-000?style=flat-square" alt="backend" />
 
-<img src="https://img.shields.io/badge/Developer-TypeScript-blue?style=flat-square&logo=typescript" alt="" />
+<img src="https://img.shields.io/badge/Student-ruby-e0115f?style=flat-square" alt="ruby"/>
 
-<a href="https://github.com/leandro-wrf/trendingsarvore">
-  <img src="https://img.shields.io/badge/Project-MegaHack-17e5c9?style=flat-square" />
-</a>
+<img src="https://img.shields.io/badge/Language-typeScript-blue?style=flat-square&logo=typescript" alt="typescript" />
+
+<img src="https://img.shields.io/badge/Language-javascript-f7df1e?style=flat-square&logo=javascript" alt="javascript" />
 
 </p>
 
